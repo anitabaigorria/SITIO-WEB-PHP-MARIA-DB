@@ -37,21 +37,21 @@ Para poder utilizarla, debemos instalar **XAMPP** a través de su [sitio web]().
 
 * Luego debemos importar el archivo **labo2.sql** en el sitio web de phpmyadmin. Para ello debemos abrir XAMPP, y encender (apretando el botón de **start**) tanto **Apache** como **MySql** como se muestra en la siguiente captura:
 
-![captura](img_rd/captura2.png)
+![captura](img_rd/captura2.PNG)
 
 * Ahora ingresaremos a algún navegador como Google Chrome o Microsoft edge y colocaremos en la barra de búsqueda lo siguiente: 'https://localhost/phpmyadmin'
 
 * Una vez allí hacemos click en "Nueva"
 
-![captura](img_rd/captura3.png)
+![captura](img_rd/captura3.PNG)
 
 * Colocarle como nombre a la Base de Datos "labo2" y elegir cotejamiento **utf-8_general_ci**. Luego presionar Crear
 
-![captura](img_rd/captura4.png)
+![captura](img_rd/captura4.PNG)
 
 * Ahora solo queda escribir en la barra de búsqueda la ruta del proyecto 'http://localhost//CARPETA_PROYECTO/index.php' y ya podremos visualizarlo e utilizarlo funcionalmente.
 
-![captura](img_rd/captura5.png)
+![captura](img_rd/captura5.PNG)
 
 _Usarios disponibles: admin (TIPO: administrador; CONTRASEÑA: admin)  / test (TIPO: común; CONTRASEÑA: test)_
 
