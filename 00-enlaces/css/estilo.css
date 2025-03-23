@@ -1,0 +1,68 @@
+
+body {
+    background-color: #63A6A1;
+    color: #403834;
+}
+
+header {
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #917263;
+}
+
+form {
+    background-color: #403834;
+    color: #ffffff;
+}
+
+input {
+    background-color: #917263;
+    color: #ffffff;
+}
+
+input::placeholder {
+    color: #ffffff;
+}
+
+button {
+    background-color: #63A6A1;
+    border-color: #917263;
+}
+
+a {
+    color: #917263;
+}
+
+.login{
+    height: 85vh;
+}
+
+figure {
+    margin-left: 1rem;
+    padding: 0;
+}
+.profile-pic {
+    width: 50px; /* Ancho de la imagen de perfil */
+    height: 50px; /* Alto de la imagen de perfil */
+    object-fit: cover; /* Ajustar la imagen sin distorsión */
+}
+
+.artic-pic {
+    width: 150px; /* Ancho de la imagen de perfil */
+    height: 150px; /* Alto de la imagen de perfil */
+    object-fit: cover; /* Ajustar la imagen sin distorsión */
+}
+
+footer {
+    height: 15vh;
+}
+
+td img {
+    width: 75px;
+}
+
+td a img {
+    width: 25px;
+}
